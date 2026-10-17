@@ -170,10 +170,3 @@ Here's the complete Markdown file with everything I mentioned. Just copy the con
 
 *Compiled from TradingView's official shortcut documentation and community guides. Verify against the in-app shortcut list for the latest additions.*
 ```
-
-### How to save it:
-1. Copy everything inside the code block above
-2. Paste into any text editor (Notepad, VS Code, etc.)
-3. Save as `tradingview-shortcuts.md`
-
-Want me to add anything else to it — like a printable "one-page cheat sheet" version with only the essentials, or shortcuts for a specific workflow (day trading, Pine Script development, etc.)?
